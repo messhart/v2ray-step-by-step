@@ -1,3 +1,7 @@
+a fork from https://github.com/v2fly/v2ray-step-by-step
+以防萬一
+
+
 # [V2Ray 配置指南](https://guide.v2fly.org)
 
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
